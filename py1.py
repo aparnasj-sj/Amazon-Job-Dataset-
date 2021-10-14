@@ -1,3 +1,10 @@
+'''
+Find number of job openings in Bangalore,IN and in Seattle,US?
+Print the Number of Job opening in Bangalore and Seattle as Integer value.
+'''
+
+
+
 import csv
 job={}
 with open('amazon_jobs_dataset.csv') as fo:
